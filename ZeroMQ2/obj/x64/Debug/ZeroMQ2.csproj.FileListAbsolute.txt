@@ -1,0 +1,11 @@
+c:\temp\ZeroMQ2\ZeroMQ2\bin\x64\Debug\ZeroMQ2.exe.config
+c:\temp\ZeroMQ2\ZeroMQ2\bin\x64\Debug\ZeroMQ2.exe
+c:\temp\ZeroMQ2\ZeroMQ2\bin\x64\Debug\ZeroMQ2.pdb
+c:\temp\ZeroMQ2\ZeroMQ2\bin\x64\Debug\clrzmq.dll
+c:\temp\ZeroMQ2\ZeroMQ2\obj\x64\Debug\ZeroMQ2.csprojResolveAssemblyReference.cache
+c:\temp\ZeroMQ2\ZeroMQ2\obj\x64\Debug\ZeroMQ2.exe
+c:\temp\ZeroMQ2\ZeroMQ2\obj\x64\Debug\ZeroMQ2.pdb
+c:\Temp\ZeroMQ2\ZeroMQ2\bin\x64\Debug\clrzmq-ext.dll
+C:\Sourcecode\Other\ZeroMQ-Python\ZeroMQ2\bin\x64\Debug\ZeroMQ2.exe.config
+C:\Sourcecode\Other\ZeroMQ-Python\ZeroMQ2\obj\x64\Debug\ZeroMQ2.exe
+C:\Sourcecode\Other\ZeroMQ-Python\ZeroMQ2\obj\x64\Debug\ZeroMQ2.pdb
